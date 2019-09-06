@@ -1,6 +1,6 @@
 {
   "name": "oryx-market/spryker-klarna",
-  "description": "Klarna PSP module for Spryker system.",
+  "description": "Klarna PSP module for Spryker e-commerce system.",
   "license": "MIT",
   "require": {
     "php": ">=7.1",
